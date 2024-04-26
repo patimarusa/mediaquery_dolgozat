@@ -14,18 +14,23 @@ header{
     width: 50%;
     padding: 5px;
     display: flex;
+    height: 500px;
 }
 
-#main{
+#oksi{
     background-color: #a7dc8a;
+    color: black;
     text-align: center;
     display: flex;
     height: 200px;
+    padding: 5px;
+    width: 50%;
+    margin-left: auto;
 }
 
-#widget{
+#masik{
     background-color: #eb867c;
-    width: 25%;
+    width: 50%;
 }
 
 #statistics{
